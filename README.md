@@ -33,6 +33,11 @@ https://github.com/user-attachments/assets/dfc82e33-70f2-435f-8bc4-25eeb50d628e
 <img src="https://github.com/originalsidd/weather-app-threejs/blob/main/build/pic2.png?raw=true"  />
 
 
+![vellore](https://github.com/user-attachments/assets/faefac74-5bdc-4f22-8727-03ba0499cb2a)
+![london](https://github.com/user-attachments/assets/3365dcc9-bc1f-4d28-9156-d6e919b2fa92)
+
+![china](https://github.com/user-attachments/assets/5b4baf1f-0f0e-4cd6-99bf-27c748ffdf45)
+![bangaluru](https://github.com/user-attachments/assets/fab51be3-9437-4330-babf-698d39fcdc05)
 
 
 
