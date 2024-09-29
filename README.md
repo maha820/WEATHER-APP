@@ -24,9 +24,9 @@ Visit Live App: https://weather-app-threejs.vercel.app/
 
 ### Desktop
 
-<img src="https://github.com/originalsidd/weather-app-threejs/blob/main/public/pic1.png?raw=true"  />
+<img src="https://github.com/originalsidd/weather-app-threejs/blob/main/build/pic1.png?raw=true"  />
 
-<img src="https://github.com/originalsidd/weather-app-threejs/blob/main/public/pic2.png?raw=true"  />
+<img src="https://github.com/originalsidd/weather-app-threejs/blob/main/build/pic2.png?raw=true"  />
 
 ### Mobile
 
