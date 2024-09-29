@@ -1,8 +1,12 @@
-# Weather App ThreeJS
+# Weather App ThreeJS using LIVE API
 
 Weather App with live 3d Earth and weather information around the globe.
 
 Visit Live App: https://weather-app-threejs.vercel.app/
+
+VIDEO DEMO:
+
+https://github.com/user-attachments/assets/dfc82e33-70f2-435f-8bc4-25eeb50d628e
 
 ## Timeline
 
@@ -29,7 +33,7 @@ Visit Live App: https://weather-app-threejs.vercel.app/
 <img src="https://github.com/originalsidd/weather-app-threejs/blob/main/build/pic2.png?raw=true"  />
 
 
-https://github.com/user-attachments/assets/dfc82e33-70f2-435f-8bc4-25eeb50d628e
+
 
 
 ### Mobile
